@@ -1,0 +1,964 @@
+[
+    {
+      "item": "Latte",
+      "sellingPrice": "$50",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "Cappuccino",
+      "sellingPrice": "$50",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "Dirty",
+      "sellingPrice": "$50",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "Flat White",
+      "sellingPrice": "$50",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "Macchiato",
+      "sellingPrice": "$50",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "Mocha",
+      "sellingPrice": "$50",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "Piccolo",
+      "sellingPrice": "$50",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "SOE",
+      "sellingPrice": "45",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "Double Espresso",
+      "sellingPrice": "45",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "Americano",
+      "sellingPrice": "45",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "Tonic",
+      "sellingPrice": "45",
+      "options": [
+        {
+          "name": "Ethiopia",
+          "extra": "0"
+        },
+        {
+          "name": "Guatemala",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Extra Shot",
+          "Extra": "5"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "item": "Single Origin Chocolate",
+      "sellingPrice": "45",
+      "options": [
+        {
+          "name": "50% Piura Milk Chocolate",
+          "extra": "0"
+        },
+        {
+          "name": "Belize Chocolate",
+          "extra": "0"
+        }
+      ],
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "sellingPrice": "45",
+      "item": "Tea",
+      "options": [
+        {
+          "name": "Citrus Chamomile",
+          "extra": "0"
+        },
+        {
+          "name": "Genmaicha",
+          "extra": "0"
+        },
+        {
+          "name": "Hojicha",
+          "extra": "0"
+        },
+        {
+          "name": "Keemun",
+          "extra": "0"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    },
+    {
+      "sellingPrice": "$40",
+      "item": "Matcha Latte",
+      "addOn": [
+        {
+          "name": "Soy Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Oat Milk",
+          "Extra": "5"
+        },
+        {
+          "name": "Skimmed Milk",
+          "Extra": "0"
+        },
+        {
+          "name": "Iced",
+          "Extra": "5"
+        }
+      ],
+      "modifiers": [
+        [
+          {
+            "name": "Takeaway"
+          },
+          {
+            "name": "Dine In"
+          }
+        ],
+        {
+          "name": "Takeaway"
+        },
+        [
+          {
+            "name": "Less Ice"
+          },
+          {
+            "name": "No Ice"
+          }
+        ],
+        [
+          {
+            "name": "Less Sugar"
+          },
+          {
+            "name": "No Sugar"
+          }
+        ],
+        {
+          "name": "Sugar On Side"
+        },
+        {
+          "name": "Milk On Side"
+        }
+      ]
+    }
+  ]
